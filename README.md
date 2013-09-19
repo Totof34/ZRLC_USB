@@ -1,16 +1,10 @@
-Preamp_micro_USB
+ZRLC_USB
 ================
 
-A small project to measure 
+A small project to measure resistance, impedance, capacitance, inductance, input impedance of
+amplifier, transformers, etc 
 
-    Resistance
-    Impedance (Real and Imaginary part)
-    Capacitance
-    Inductance
-    Input impedance of amplifier, Transformers, etc
-    All the previous parameters at different frequencies, and with automatic sweep, in time and frequency domain
-
-
+    
 If you would have more information about this project please visit 
 www.audiyofan.org
 
